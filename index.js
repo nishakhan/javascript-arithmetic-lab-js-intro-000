@@ -6,4 +6,4 @@ function multiple() {}
 
 function divide() {}
 
-function add(1200, 93)
+function add(1200, 93) {}
